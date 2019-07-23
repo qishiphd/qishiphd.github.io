@@ -4,7 +4,7 @@ date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/nasa-unsplash.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Air-sea interaction, Earth system modeling, Remote sensing"
 mathjax: "true"
 ---
 
@@ -14,7 +14,9 @@ mathjax: "true"
 
 ### H3 Heading
 
-Here's some basic text.
+Numerical models solve mathematical equations that describe the atmosphere, ocean, and land surface to predict future weather and climate. Interactions among each model component, such as heat exchange between atmosphere and ocean, plays an important role in driving both oceanic and atmospheric circulation. For example, hurricanes are fueled with heat and moisture from the ocean. Ocean currents and waves modify wind shear and surface roughness, which are key variables for calculating the air-sea heat and momentum fluxes. Using a high-resolution, three-way coupled ocean-wave-atmospheric modeling system, we determine the role of coupling ocean currents, waves, and wind stress in reducing model bias in air-sea flux over the Gulf Stream.
+
+Accurately modeling air-sea flux is challenging due to the complex feedback mechanisms between ocean, wave, and atmosphere. Our study provided the first detailed mechanism study in the current-wave-stress coupling processed, which can be applied to increase the accuracy of hurricane intensity forecast, climate prediction, and to better use satellite observations in the numerical models. 
 
 And here's some *italics*
 
