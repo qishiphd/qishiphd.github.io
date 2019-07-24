@@ -19,4 +19,4 @@ I'm a weather/climate/hydrodynamic modeler at Michigan Technological University.
 **Education**:
 * Ph.D. in Meteorology, 2017, *Florida State University*
 + M.S. in Meteorology, 2014, *Florida State Univeristy*
-- B.S. in Atmospheric Sciences,2008, *Nanjing University*
+- B.S. in Atmospheric Sciences, 2008, *Nanjing University*
