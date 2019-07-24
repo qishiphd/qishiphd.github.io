@@ -10,20 +10,13 @@ I'm a weather/climate/hydrodynamic modeler at Michigan Technological University.
 
 [Resume](http://qishiphd.github.io/pdf/QiShi-resume.pdf)
 
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
 **Research Interests**:
 * Regional weather/climate modeling
-+ Remote sensing
++ Air-sea interaction and coupled modeling
+- Remote sensing
 - Data visualization
 
 **Education**:
-* PhD in Meteorology, 2017
- *Florida State University*
-+ MS in Meteorology, 2014
-  *Florida State Univeristy*
-- BS in Atmospheric Sciences,2008
-  *Nanjing University*
+* Ph.D. in Meteorology, 2017, *Florida State University*
++ M.S. in Meteorology, 2014, *Florida State Univeristy*
+- B.S. in Atmospheric Sciences,2008, *Nanjing University*
