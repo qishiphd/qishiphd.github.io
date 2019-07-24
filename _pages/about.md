@@ -16,14 +16,14 @@ Here's a bulleted list:
 - Third item
 
 **Research Interests**:
-*Regional weather/climate modeling
-+Remote sensing
--Data visualization
+* Regional weather/climate modeling
++ Remote sensing
+- Data visualization
 
 **Education**:
-*PhD in Meteorology, 2017
+* PhD in Meteorology, 2017
  *Florida State University*
-+MS in Meteorology, 2014
- *Florida State Univeristy*
--BS in Atmospheric Sciences,2008
- *Nanjing University*
++ MS in Meteorology, 2014
+  *Florida State Univeristy*
+- BS in Atmospheric Sciences,2008
+  *Nanjing University*
